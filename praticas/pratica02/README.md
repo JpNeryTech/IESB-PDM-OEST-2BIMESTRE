@@ -33,7 +33,7 @@ cd praticas/pratica02
 Na pasta `praticas/pratica02`:
 
 ```bash
-npx create-expo-app@latest .
+npx create-expo-app@latest --template
 ```
 
 Se a pasta não estiver vazia por causa do README, use uma subpasta:
